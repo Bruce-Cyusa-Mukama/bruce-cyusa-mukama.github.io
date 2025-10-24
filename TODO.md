@@ -1,6 +1,6 @@
 - [x] Deploy the template/dummy website,
 - [x] Link it to your google scholar profile,
-- [ ] Change your page emoji to sparkles :sparkles:
+- [x] Change your page emoji to sparkles :sparkles:
 - [ ] Add a short bio like dolz,
     - https://josedolz.github.io/ 
 - [ ] Add a "Research Interests" section were you present your motivations for Trustworthy AI, Assisitive/colloraborative HRI and Robot learning,
