@@ -5,7 +5,7 @@
     - https://josedolz.github.io/ 
 - [ ] Add a "Research Interests" section were you present your motivations for Trustworthy AI, Assisitive/colloraborative HRI and Robot learning,
 - [ ] Add duplicate the peoples tab into -> projects, talks, books
-- [ ] Add a short bio for each project: "Curriculum Image Segmentation", "R.E.D", "Probabilistic Total Correctness in ROL"?
+- [ ] Add a short bio for each project: "Curriculum Image Segmentation", "R.E.D", "Finite-Steps Probabilistic Correctness (in ROL)",
 - [ ] Update your linkedin profile and link it to the page,
 - [ ] Use the following template to create a project page for "RED" (on utc) & (on my github),
      - one parent page for R.E.D, and one tab/page for each R.E.D publication!!!
