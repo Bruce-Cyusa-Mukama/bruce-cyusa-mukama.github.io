@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Bruce-Cyusa-Mukama/brucecyusamukama.github.io",
+    "data-repo": "Bruce-Cyusa-Mukama/bruce-cyusa-mukama.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",

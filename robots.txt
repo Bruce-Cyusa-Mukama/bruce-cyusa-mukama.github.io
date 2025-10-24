@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://brucecyusamukama.github.io/sitemap.xml
+Sitemap: https://bruce-cyusa-mukama.github.io/sitemap.xml
