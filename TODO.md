@@ -16,5 +16,7 @@
 - [ ] Put a great recording of your "" talk on the talks tab,
 - [ ] On the home page, merge the bellow styles to showcase 1 to 3 selected publications (RSS 1 & 2, PR 1):
      - dolz's formatting, etc. AND gifs (the illustrations & graphs)?
-- [ ] Add the Seminars and Conference Talks subsections to your Lectures tab,
+- [x] Add the Seminars and Conference Talks subsections to your Lectures tab,
+- [ ] Write books as companions to great tutorials on how people should use ROL software (yours or other's),
+
 
