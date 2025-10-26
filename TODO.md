@@ -18,6 +18,9 @@
      - dolz's formatting, etc. AND gifs (the illustrations & graphs)?
 - [x] Add the Seminars and Conference Talks subsections to your Lectures tab,
 - [ ] Write books as companions to great tutorials on how people should use ROL software (yours or other's),
+- [x] Propose at `PR-2025` talk at `PRETIL` and separately record the Audio \& Video,
+- [ ] Add the moto `All that is not given is lost?`,
+- [ ] Add the right office number!!!
 - [ ] ...,
 - [ ] Delete every file that you do not need!
 
