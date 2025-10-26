@@ -18,5 +18,7 @@
      - dolz's formatting, etc. AND gifs (the illustrations & graphs)?
 - [x] Add the Seminars and Conference Talks subsections to your Lectures tab,
 - [ ] Write books as companions to great tutorials on how people should use ROL software (yours or other's),
+- [ ] ...,
+- [ ] Delete every file that you do not need!
 
 
