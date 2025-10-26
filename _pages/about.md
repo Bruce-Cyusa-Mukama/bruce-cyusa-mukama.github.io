@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.hds.utc.fr/'>Heudiasyc C.N.R.S. Laboratory</a>. PhD Student in Computer Science. 
+subtitle: Doctoral researcher at the <a href='https://www.hds.utc.fr/'>Heudiasyc (C.N.R.S.) Laboratory</a>. 
 
 profile:
   align: right

@@ -1,10 +1,12 @@
 - [x] Deploy the template/dummy website,
 - [x] Link it to your google scholar profile,
 - [x] Change your page emoji to sparkles :sparkles:
-- [ ] Add a short bio like dolz,
+- [x] Add a short bio like dolz,
     - https://josedolz.github.io/ 
-- [ ] Add a "Research Interests" section were you present your motivations for Trustworthy AI, Assisitive/colloraborative HRI and Robot learning,
-- [ ] Add duplicate the peoples tab into -> projects, talks, books
+- [x] Add a "Research Interests" section were you present your motivations for Trustworthy AI, Assisitive/colloraborative HRI and Robot learning,
+- [x] Add duplicate the peoples tab into -> projects, talks, books;
+- [x] Add the Seminars and Conference Talks subsections to your Lectures tab,
+- [ ] Propose at `PR-2025` talk at `PRETIL` and separately record the Audio \& Video (add it to the lectures tab),
 - [ ] Add a short bio for each project: "Curriculum Image Segmentation", "R.E.D", "Finite-Steps Probabilistic Correctness (in ROL)",
 - [ ] Update your linkedin profile and link it to the page,
 - [ ] Use the following template to create a project page for "RED" (on utc) & (on my github),
@@ -16,11 +18,12 @@
 - [ ] Put a great recording of your "" talk on the talks tab,
 - [ ] On the home page, merge the bellow styles to showcase 1 to 3 selected publications (RSS 1 & 2, PR 1):
      - dolz's formatting, etc. AND gifs (the illustrations & graphs)?
-- [x] Add the Seminars and Conference Talks subsections to your Lectures tab,
 - [ ] Write books as companions to great tutorials on how people should use ROL software (yours or other's),
-- [x] Propose at `PR-2025` talk at `PRETIL` and separately record the Audio \& Video,
 - [ ] Add the moto `All that is not given is lost?`,
 - [ ] Add the right office number!!!
+- [ ] Add more details for your selected publication(s),
+- [ ] Tweek & personalize the theme (colors, etc.),
+- [ ] Replace the heudiasyc youtube channel link with your own channel's!!!
 - [ ] ...,
 - [ ] Delete every file that you do not need!
 
