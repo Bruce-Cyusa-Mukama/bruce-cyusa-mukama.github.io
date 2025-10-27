@@ -1,8 +1,7 @@
 - [x] Deploy the template/dummy website,
 - [x] Link it to your google scholar profile,
 - [x] Change your page emoji to sparkles :sparkles:
-- [x] Add a short bio like dolz,
-    - https://josedolz.github.io/ 
+- [x] Add a short bio like [dolz](https://josedolz.github.io/), 
 - [x] Add a "Research Interests" section were you present your motivations for Trustworthy AI, Assisitive/colloraborative HRI and Robot learning,
 - [x] Add duplicate the peoples tab into -> projects, talks, books;
 - [x] Add the Seminars and Conference Talks subsections to your Lectures tab,
@@ -12,12 +11,16 @@
 - [x] Replace the heudiasyc youtube channel link with your own channel's!!!
 ___
 - [ ] Add the right office number!!!
+- [ ] Unlink your old GitHub page (oneCreativeUserName) with your public identity (BCM),
 - [ ] Add more details (tile,venue, gs-links etc.) for your selected publication(s),
 - [ ] Put both your thesis on the books tab (with or without short bios),
 - [ ] Don't wait for seminars and conference presentations: deep dive (quality over quantity) in others' papers and put it on your YouTube page,
-- [ ] Detail your Youtube page as `two minute papers` did:
-     - Add the moto `All that is not given is lost`,
-     - https://www.youtube.com/@TwoMinutePapers/videos
+- [ ] Detail your Youtube page as [two minute papers](https://www.youtube.com/@TwoMinutePapers/videos) did:
+     - [ ] Add the moto `All that is not given is lost`,
+     - [ ] Deep Dives $\rightarrow$ \{Separately deeply analyze each major paper in your tai-rol seminar/(saturday arxiv?)\},
+     - [ ] Seminars $\rightarrow$ \{Finite-size tai-rol review, R.E.D.\},
+     - [ ] Conference Presentations $\rightarrow$ \{IPMU, RSS, COPA\},
+     - [ ] MAYBE, for to practice your langs, progressively add multiple ``pistes" \{FR, EN, ES, \& SW \} for your tai-rol deep dives,
 - [ ] Propose at `PR-2025` talk at `PRETIL` and separately record the Audio \& Video (add it to the lectures tab),
 - [ ] Put a great recording of your "2025-2026" talks on the lecture tab,
 - [ ] Add a short bio for each project: "Curriculum Image Segmentation", "R.E.D", "Finite-Steps Probabilistic Correctness (in ROL)",
@@ -31,7 +34,7 @@ ___
 - [ ] Tweek & personalize the theme (colors, etc.),
 - [ ] ...,
 - [ ] ...,
-- [ ] Delete every file that you do not need!
+- [ ] Delete every file that you do not need in this repo!
 - [ ] Write new books, e.g., companions to great tutorials on how people should use (yours or others') ROL software,
 
 
