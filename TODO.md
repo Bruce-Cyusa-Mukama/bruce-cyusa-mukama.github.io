@@ -7,6 +7,8 @@
 - [x] Add duplicate the peoples tab into -> projects, talks, books;
 - [x] Add the Seminars and Conference Talks subsections to your Lectures tab,
 - [x] Add Linkedin & google-scholar to the page,
+- [x] Add/fix the `S.R`'s fullname on the selected pubs,
+- [x] Start the selected publications subsection with a capital letter and point its link to google scholar!!!
 ___
 
 - [ ] Add a short bio for each project: "Curriculum Image Segmentation", "R.E.D", "Finite-Steps Probabilistic Correctness (in ROL)",
@@ -24,10 +26,8 @@ ___
 - [ ] Add the moto `All that is not given is lost?`,
 - [ ] Add the right office number!!!
 - [ ] Add more details (tile,venue, gs-links etc.) for your selected publication(s),
-- [ ] Add/fix the `S.R`'s fullname on the selected pubs,
 - [ ] Tweek & personalize the theme (colors, etc.),
 - [ ] Replace the heudiasyc youtube channel link with your own channel's!!!
-- [ ] Start the selected publications subsection with a capital letter and point its link to google scholar!!!
 - [ ] ...,
 - [ ] ...,
 - [ ] Delete every file that you do not need!

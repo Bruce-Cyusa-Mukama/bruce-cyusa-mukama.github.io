@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Doctoral researcher at the <a href='https://www.hds.utc.fr/'>Heudiasyc (C.N.R.S.) Laboratory</a>. 
 
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p> Office 206, Heudiasyc Lab,</p>
     <p> C.N.R.S., U.M.R. 7253,</p>
-    <p> Compiegne, FRANCE.</p>
+    <p> Compiègne, FRANCE.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /books/
-title: books
+title: Books
 description: members of the lab or group
 nav: true
 nav_order: 7

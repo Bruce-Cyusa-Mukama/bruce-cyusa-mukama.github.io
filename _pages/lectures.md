@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lectures
+title: Lectures
 permalink: /lectures/
 description: A growing collection of your cool projects.
 nav: true
