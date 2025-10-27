@@ -480,7 +480,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@laboratoireheudiasyc7318", "_blank");
+          window.open("https://youtube.com/@trustworthyrobotlearning", "_blank");
         },
       },{
       id: 'light-theme',
