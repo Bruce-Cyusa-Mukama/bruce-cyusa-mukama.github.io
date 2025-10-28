@@ -14,7 +14,7 @@ ___
 - [ ] Unlink your old GitHub page (oneCreativeUserName) with your public identity (BCM),
 - [ ] Add more details (tile,venue, gs-links etc.) for your selected publication(s),
 - [ ] Put both your thesis on the books tab (with or without short bios),
-- [ ] Don't wait for seminars and conference presentations: deep dive (quality over quantity) in others' papers and put it on your YouTube page,
+- [ ] Like `N.D. Tyson`, do not wait for seminars and conference presentations: deep dive (quality over quantity) in others' papers and put it on your YouTube page,
 - [ ] Detail your Youtube page as [two minute papers](https://www.youtube.com/@TwoMinutePapers/videos) did:
      - [ ] Add the moto `All that is not given is lost`,
      - [ ] Deep Dives $\rightarrow$ \{Separately deeply analyze each major paper in your tai-rol seminar/(saturday arxiv?)\},
