@@ -1,10 +1,10 @@
 ---
 layout: page
-title: talks
+title: Talks
 permalink: /talks/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [Seminars, Conferences, Reading Club]
 horizontal: false
 ---
