@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lectures
-permalink: /lectures/
+title: Presentations
+permalink: /presentations/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Seminars, Conferences, Deep Dives]
+display_categories: [Seminars, Conferences, Reading Club]
 horizontal: false
 ---
 
