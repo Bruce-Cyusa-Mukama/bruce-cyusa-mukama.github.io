@@ -5,7 +5,7 @@ permalink: /lectures/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Conference Presentations, Seminars, Deep Dives]
+display_categories: [Seminars, Conferences, Deep Dives]
 horizontal: false
 ---
 
