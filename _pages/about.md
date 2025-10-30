@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Office 206, Heudiasyc Lab,</p>
+    <p> Office 233, Heudiasyc Lab,</p>
     <p> C.N.R.S., U.M.R. 7253,</p>
     <p> Compiègne, FRANCE.</p>
 
