@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Talks
-permalink: /talks/
+title: Lectures
+permalink: /lectures/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 2
-display_categories: [Seminars, Conferences, Reading Club]
+nav_order: 3
+display_categories: [Live, Recorded]
 horizontal: false
 ---
 
