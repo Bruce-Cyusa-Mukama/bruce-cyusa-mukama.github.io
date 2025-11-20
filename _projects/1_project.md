@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: J.M.L.R
+description: Everything is awesome
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: 2023 - 2026
 related_publications: true
 ---
 
