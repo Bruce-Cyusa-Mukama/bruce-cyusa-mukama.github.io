@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lectures
-permalink: /lectures/
+title: Tutorials
+permalink: /tutorials/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [Live, Recorded]
+display_categories: [Robot learning, Trustworthy AI, Outstanding papers]
 horizontal: false
 ---
 
