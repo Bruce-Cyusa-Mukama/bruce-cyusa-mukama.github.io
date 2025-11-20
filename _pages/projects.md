@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [2023-2026, 2027-2030]
+display_categories: [2023 to 2026, 2027 to 2030]
 horizontal: false
 ---
 
