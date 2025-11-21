@@ -409,27 +409,37 @@ ninja.data = [{
           title: 'J.M.L.R',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/projects_1/";
             },},{id: "projects-t-fr",
           title: 'T-FR',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/projects_2/";
             },},{id: "projects-r-e-d",
           title: 'R.E.D',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/projects_3/";
             },},{id: "projects-robot-learning",
           title: 'Robot Learning',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/projects/tutorials_1/";
             },},{id: "projects-trustworthy-ai",
           title: 'Trustworthy AI',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_tutorials/";
+              window.location.href = "/projects/tutorials_2/";
+            },},{id: "projects-2025-reading-list",
+          title: '2025 Reading List',
+          description: "Everything is awesome",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tutorials_4/";
+            },},{id: "projects-trustworthy-robot-learning",
+          title: 'Trustworthy Robot Learning',
+          description: "Everything is awesome",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tutorials_5/";
             },},{
         id: 'social-email',
         title: 'email',
