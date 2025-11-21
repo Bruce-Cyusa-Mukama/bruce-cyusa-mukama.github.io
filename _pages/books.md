@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /books/
 title: Books
-description: members of the lab or group
+description: A curated list of the books I wrote.
 nav: true
 nav_order: 4
 

@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A curated list of my robotics research and development projects.
 nav: true
 nav_order: 2
 display_categories: [2027 - 2030, 2023 - 2026]

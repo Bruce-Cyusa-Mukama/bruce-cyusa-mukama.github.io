@@ -2,7 +2,7 @@
 layout: page
 title: Tutorials
 permalink: /tutorials/
-description: A growing collection of your cool projects.
+description: A curated list of my YouTube videos that explain what is trustworthy robot learning and present some outstanding research papers in this domain.
 nav: true
 nav_order: 3
 display_categories: [The Basics, Reading Lists]
