@@ -429,12 +429,7 @@ ninja.data = [{
           title: 'Trustworthy AI',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-trustworthy-robot-learning",
-          title: 'Trustworthy Robot Learning',
-          description: "Everything is awesome",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/projects/5_tutorials/";
             },},{
         id: 'social-email',
         title: 'email',
