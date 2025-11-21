@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Robot Learning
+title: Trustworthy Robot Learning
 description: Everything is awesome
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 1
-category: The Basics
+importance: 3
+category: Reading Lists
 ---
 
 Every project has a beautiful feature showcase page.

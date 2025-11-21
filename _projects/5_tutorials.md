@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Trustworthy Robot Learning
+title: Trustworthy AI
 description: Everything is awesome
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 2
-category: 2023 - 2026
+category: The Basics
 ---
 
 Every project has a beautiful feature showcase page.
