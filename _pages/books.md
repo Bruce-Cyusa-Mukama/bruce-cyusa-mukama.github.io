@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /books/
 title: Books
-description: A curated list of the books I wrote.
+description: A curated list of my books (in progress or publihed).
 nav: true
 nav_order: 4
 
@@ -17,6 +17,7 @@ profiles:
       <p>The Art of Allegorical Clips.</p>
   - align: left
     image: msca.jpg
+    content: about_trol.md
     image_circular: false
     more_info: >
       <p>Trustworthy Robot Learning.</p>
