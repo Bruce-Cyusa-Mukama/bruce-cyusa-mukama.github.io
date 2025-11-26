@@ -2,7 +2,7 @@
 layout: page
 title: Research 
 permalink: /research/
-description: A curated list of the robotics research and development projects to which I contributed.
+description: A curated list of the robotics research projects to which I contributed.
 nav: true
 nav_order: 2
 display_categories: [2023 - 2026]
