@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Research 
+permalink: /research/
 description: A curated list of my robotics research and development projects.
 nav: true
 nav_order: 2

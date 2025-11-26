@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Tutorials
-permalink: /tutorials/
-description: A curated list of my YouTube videos that explain what is trustworthy robot learning and present some outstanding research papers in this domain.
+title: Art
+permalink: /art/
+description: A curated list of my animated music clips.
 nav: true
 nav_order: 3
-display_categories: [The Basics, Reading Lists]
+display_categories: [2026 - 2029]
 horizontal: false
 ---
 

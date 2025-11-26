@@ -11,6 +11,17 @@ profiles:
   # and create one content file for each profile/book inside _pages/
   - align: right
     image: msca.jpg
+    content: about_aa.md
+    image_circular: false
+    more_info: >
+      <p>The Art of Allegorical Clips.</p>
+  - align: left
+    image: msca.jpg
+    image_circular: false
+    more_info: >
+      <p>Trustworthy Robot Learning.</p>
+  - align: right
+    image: msca.jpg
     content: about_msca.md
     image_circular: false # crops the image to make it circular
     more_info: >
