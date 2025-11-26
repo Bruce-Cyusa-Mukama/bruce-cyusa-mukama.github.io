@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "Projects",
+  },{id: "nav-research",
+          title: "Research",
           description: "A curated list of my robotics research and development projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/research/";
           },
-        },{id: "nav-tutorials",
-          title: "Tutorials",
-          description: "A curated list of my YouTube videos that explain what is trustworthy robot learning and present some outstanding research papers in this domain.",
+        },{id: "nav-art",
+          title: "Art",
+          description: "A curated list of my animated music clips.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tutorials/";
+            window.location.href = "/art/";
           },
         },{id: "nav-books",
           title: "Books",
@@ -405,41 +405,36 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-j-m-l-r",
+          section: "News",},{id: "projects-classic-n-1",
+          title: 'Classic N°1',
+          description: "An animated clip song that reinterprets a classic allegorical story in a cyberpunk world.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/art_1/";
+            },},{id: "projects-classic-n-2",
+          title: 'Classic N°2',
+          description: "An animated clip song that reinterprets a classic allegorical story in a steampunk world.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/art_2/";
+            },},{id: "projects-classic-n-3",
+          title: 'Classic N°3',
+          description: "An animated clip song that reinterprets a classic allegorical story in an steampunk world.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/art_3/";
+            },},{id: "projects-j-m-l-r",
           title: 'J.M.L.R',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/projects_1/";
+              window.location.href = "/projects/research_1/";
             },},{id: "projects-t-ro",
           title: 'T-RO',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/projects_2/";
+              window.location.href = "/projects/research_2/";
             },},{id: "projects-r-e-d",
           title: 'R.E.D',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/projects_3/";
-            },},{id: "projects-robot-learning",
-          title: 'Robot Learning',
-          description: "Everything is awesome",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/tutorials_1/";
-            },},{id: "projects-trustworthy-ai",
-          title: 'Trustworthy AI',
-          description: "Everything is awesome",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/tutorials_2/";
-            },},{id: "projects-2025-papers",
-          title: '2025 Papers',
-          description: "Everything is awesome",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/tutorials_4/";
-            },},{id: "projects-trustworthy-robot-learning",
-          title: 'Trustworthy Robot Learning',
-          description: "Everything is awesome",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/tutorials_5/";
+              window.location.href = "/projects/research_3/";
             },},{
         id: 'social-email',
         title: 'email',
