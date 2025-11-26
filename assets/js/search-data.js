@@ -430,8 +430,8 @@ ninja.data = [{
           description: "Everything is awesome",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tutorials_2/";
-            },},{id: "projects-2025-reading-list",
-          title: '2025 Reading List',
+            },},{id: "projects-2025-papers",
+          title: '2025 Papers',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tutorials_4/";
