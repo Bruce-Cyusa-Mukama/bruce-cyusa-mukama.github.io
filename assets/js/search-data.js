@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-books",
           title: "Books",
-          description: "A curated list of the books I wrote.",
+          description: "A curated list of my books (in progress or publihed).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/books/";
@@ -461,7 +461,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@trustworthyrobotlearning", "_blank");
+          window.open("https://youtube.com/@allegorical-art", "_blank");
         },
       },{
       id: 'light-theme',
