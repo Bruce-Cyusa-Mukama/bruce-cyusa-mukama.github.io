@@ -407,7 +407,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-classic-n-1",
           title: 'Classic N°1',
-          description: "An animated clip song that reinterprets a classic allegorical story in a cyberpunk world.",
+          description: "Similar to [Moana&#39;s trailer](), an animated clip song that reinterprets a classic allegorical story in a cyberpunk world.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_1/";
             },},{id: "projects-classic-n-2",
