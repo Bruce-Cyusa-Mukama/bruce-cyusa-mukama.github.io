@@ -420,8 +420,8 @@ ninja.data = [{
           description: "An animated clip song that reinterprets a classic allegorical story in an steampunk world.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_3/";
-            },},{id: "projects-j-m-l-r",
-          title: 'J.M.L.R',
+            },},{id: "projects-t-fr",
+          title: 'T-FR',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
               window.location.href = "/projects/research_1/";
