@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Bruce Cyusa Mukama",
     "label": "PhD Student",
     "image": "",
     "email": "bruce.cyusa-mukama@hds.utc.fr",
     "phone": "",
     "url": "",
-    "summary": "A robotics research scientist (PhD student) specialized in trustworthy artificial intelligence.",
+    "summary": "A robotics research scientist (PhD student) specialized in trustworthy artificial intelligence."
   },
   "languages": [
     {
@@ -80,7 +80,7 @@
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
-  ]
+  ],
   "interests": [
     {
       "name": "Physics",

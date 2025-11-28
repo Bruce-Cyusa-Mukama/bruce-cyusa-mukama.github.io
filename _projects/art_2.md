@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Classic N°2
-description: An animated clip song that reinterprets a classic allegorical story in a steampunk world.
+description: A digital painting that recreates a frame of a popular story/ movie/ painting in a steampunk world.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 2
