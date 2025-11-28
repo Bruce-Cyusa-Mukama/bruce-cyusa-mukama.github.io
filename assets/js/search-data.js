@@ -407,17 +407,17 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-classic-n-1",
           title: 'Classic N°1',
-          description: "Similar to [Moana&#39;s trailer](https://youtu.be/QKYFfYLe5rs?si=y_K3EjNuI4LlnFuA), an animated clip song that reinterprets a classic allegorical story in a cyberpunk world.",
+          description: "A digital painting that recreates a frame of a popular story/ movie/ painting in a cyberpunk world.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_1/";
             },},{id: "projects-classic-n-2",
           title: 'Classic N°2',
-          description: "An animated clip song that reinterprets a classic allegorical story in a steampunk world.",
+          description: "A digital painting that recreates a frame of a popular story/ movie/ painting in a steampunk world.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_2/";
             },},{id: "projects-classic-n-3",
           title: 'Classic N°3',
-          description: "An animated clip song that reinterprets a classic allegorical story in an steampunk world.",
+          description: "A digital painting that recreates a frame of a popular story/ movie/ painting in an steampunk world.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_3/";
             },},{id: "projects-t-fr",
