@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R&D 
+title: Research 
 permalink: /research/
 description: A curated list of the robotics research and development projects to which I contributed.
 nav: true
