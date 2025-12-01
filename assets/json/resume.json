@@ -35,8 +35,8 @@
       "institution": "University of Technology in Compiègne (UTC)",
       "location": "Compiègne, France",
       "url": "https://www.utc.fr/en/courses-and-training/applying-at-utc/applying-for-doctoral-phd-studies-at-utc/",
-      "area": "Computer Science",
-      "studyType": "PhD",
+      "area": "",
+      "studyType": "Computer Science (PhD)",
       "startDate": "2023-10-01",
       "endDate": "2026-10-01"
     },
@@ -44,8 +44,8 @@
       "institution": "École de Technologie Supérieure (ÉTS)",
       "location": "Troyes, France",
       "url": "https://www.etsmtl.ca/en/programs-training/master-automated-manufacturing-engineering",
-      "area": "Automated Manufacturing Engineering",
-      "studyType": "M.Sc.A",
+      "area": "",
+      "studyType": "Automated Manufacturing Engineering (M.Sc.A)",
       "startDate": "2019-09-01",
       "endDate": "2021-09-01"
     },
@@ -53,20 +53,29 @@
       "institution": "University of Technology in Troyes (UTT)",
       "location": "Troyes, France",
       "url": "https://www.utt.fr/formations/diplome-d-ingenieur/automatique-informatique-industrielle",
-      "area": "Control and Computer Engineering",
-      "studyType": "M.Eng.",
+      "area": "",
+      "studyType": "Control and Computer Engineering (M.Eng.)",
       "startDate": "2015-09-01",
       "endDate": "2022-02-01"
     }
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
+      "name": "Heudiasyc Lab, C.N.R.S., U.M.R. 725",
       "position": "Professor of Theoretical Physics",
       "url": "https://example.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
+      "summary": "To be completed."
+    },
+    {
+      "position": "Verification and Validation Software Engineer"
+    },
+    {
+      "position": "Computer Vision Researcher (M.Sc.A Student)"
+    },
+    {
+      "position": "Control Engineer (Intern)"
     }
   ],
   "skills": [
