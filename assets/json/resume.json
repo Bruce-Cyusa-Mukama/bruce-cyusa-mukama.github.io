@@ -66,45 +66,76 @@
       "url": "https://example.com",
       "startDate": "1933-01-01",
       "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Software Engineering",
+      "level": "PhD",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python (PyTorch, NumPy, etc.)",
+        "C++ (MuJoCo, ROS 2, etc.)",
+        "CI/CD Pipelines (GitHub, etc.)"
+      ]
+    },
+    {
+      "name": "Rapid Prototyping",
+      "level": "M.Eng.",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "CAD & 3D Printing",
+        "FPGA Programming",
+        "PCB Prototyping"
+      ]
+    },
+    {
+      "name": "Management",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Scientific Communication",
+        "Project Management",
+        "Mentoring & Suppervision"
       ]
     }
   ],
   "references": [
     {
       "name": "PI Sébastien Destercke",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-tag",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
       "name": "Professor José Dolz",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-tag",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "interests": [
     {
       "name": "Trustworthy AI",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Machine Learning Verification",
-        "Uncertainty Quantification",
-        "Conformal Prefiction"
+        "ML Validation & Verification",
+        "Explainable Machine Learning"
+      ]
+    },
+    {
+      "name": "Collaborative Robotics",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "Learned Action Policies",
+        "Learned Perception"
+      ]
+    },
+    {
+      "name": "Arts",
+      "icon": "fa-solid fa-thumbtack",
+      "keywords": [
+        "3D Animations",
+        "Blues Guitar"
       ]
     }
   ]
