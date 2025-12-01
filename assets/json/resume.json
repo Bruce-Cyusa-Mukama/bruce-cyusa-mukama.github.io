@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Bruce Cyusa Mukama",
-    "label": "PhD Student",
+    "label": "Research Engineer",
     "image": "",
     "email": "bruce.cyusa-mukama@hds.utc.fr",
     "phone": "",
     "url": "",
-    "summary": "A robotics research scientist (PhD student) specialized in trustworthy artificial intelligence."
+    "summary": "A research engineer (PhD student) specialized in trustworthy artificial intelligence and collaborative robotics."
   },
   "languages": [
     {
@@ -32,16 +32,32 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Technology in Compiègne (UTC)",
+      "location": "Compiègne, France",
+      "url": "https://www.utc.fr/en/courses-and-training/applying-at-utc/applying-for-doctoral-phd-studies-at-utc/",
+      "area": "Computer Science",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+      "startDate": "2023-10-01",
+      "endDate": "2026-10-01",
+    },
+    {
+      "institution": "École de Technologie Supérieure (ÉTS)",
+      "location": "Troyes, France",
+      "url": "https://www.etsmtl.ca/en/programs-training/master-automated-manufacturing-engineering",
+      "area": "Automated Manufacturing Engineering",
+      "studyType": "M.Sc.A",
+      "startDate": "2019-09-01",
+      "endDate": "2021-09-01",
+    },
+    {
+      "institution": "University of Technology in Troyes (UTT)",
+      "location": "Troyes, France",
+      "url": "https://www.utt.fr/formations/diplome-d-ingenieur/automatique-informatique-industrielle",
+      "area": "Control and Computer Engineering",
+      "studyType": "M.Eng.",
+      "startDate": "2015-09-01",
+      "endDate": "2022-02-01",
+    },
   ],
   "work": [
     {
