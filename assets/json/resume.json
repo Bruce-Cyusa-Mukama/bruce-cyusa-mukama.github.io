@@ -62,20 +62,26 @@
   "work": [
     {
       "name": "Heudiasyc Lab, C.N.R.S., U.M.R. 725",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "position": "Trustworthy-AI Researcher (PhD Student)",
+      "url": "https://www.hds.utc.fr/en/",
+      "startDate": "2023-10-01",
+      "endDate": "2026-10-01",
       "summary": "To be completed."
     },
     {
-      "position": "Verification and Validation Software Engineer"
+      "position": "Verification and Validation Software Engineer",
+      "startDate": "2022-05-01",
+      "endDate": "2023-02-01"
     },
     {
-      "position": "Computer Vision Researcher (M.Sc.A Student)"
+      "position": "Computer Vision Researcher (M.Sc.A Student)",
+      "startDate": "2019-09-01",
+      "endDate": "2021-09-01"
     },
     {
-      "position": "Control Engineer (Intern)"
+      "position": "Control Engineer (Intern)",
+      "startDate": "2018-02-01",
+      "endDate": "2018-08-01"
     }
   ],
   "skills": [
