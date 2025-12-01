@@ -38,7 +38,7 @@
       "area": "Computer Science",
       "studyType": "PhD",
       "startDate": "2023-10-01",
-      "endDate": "2026-10-01",
+      "endDate": "2026-10-01"
     },
     {
       "institution": "École de Technologie Supérieure (ÉTS)",
@@ -47,7 +47,7 @@
       "area": "Automated Manufacturing Engineering",
       "studyType": "M.Sc.A",
       "startDate": "2019-09-01",
-      "endDate": "2021-09-01",
+      "endDate": "2021-09-01"
     },
     {
       "institution": "University of Technology in Troyes (UTT)",
@@ -56,8 +56,8 @@
       "area": "Control and Computer Engineering",
       "studyType": "M.Eng.",
       "startDate": "2015-09-01",
-      "endDate": "2022-02-01",
-    },
+      "endDate": "2022-02-01"
+    }
   ],
   "work": [
     {
@@ -99,15 +99,12 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Trustworthy AI",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Learning Verification",
+        "Uncertainty Quantification",
+        "Conformal Prefiction"
       ]
     }
   ]
