@@ -59,7 +59,7 @@
       "endDate": "2022-02-01"
     }
   ],
-  "work experience": [
+  "work": [
     {
       "name": "Heudiasyc Laboratory, C.N.R.S., U.M.R. 725",
       "location": "Compiègne, France",
@@ -93,6 +93,16 @@
   ],
   "skills": [
     {
+      "name": "Scientific Research",
+      "level": "PhD",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Litterature Review",
+        "Critical & Analytical Thinking",
+        "Scientific Communication"
+      ]
+    },
+    {
       "name": "Software Engineering",
       "level": "PhD",
       "icon": "fa-solid fa-hashtag",
@@ -117,9 +127,8 @@
       "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Scientific Communication",
         "Project Management",
-        "Mentoring & Suppervision"
+        "Mentoring & suppervision"
       ]
     }
   ],
