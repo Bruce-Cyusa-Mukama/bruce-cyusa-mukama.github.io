@@ -6,7 +6,7 @@
     "email": "bruce.cyusa-mukama@hds.utc.fr",
     "phone": "",
     "url": "",
-    "summary": "A research engineer (PhD student) specialized in trustworthy artificial intelligence and collaborative robotics."
+    "summary": "Computer science research engineer, specialized in trustworthy artificial intelligence and collaborative robotics."
   },
   "languages": [
     {
@@ -59,31 +59,34 @@
       "endDate": "2022-02-01"
     }
   ],
-  "work": [
+  "work experience": [
     {
-      "name": "Heudiasyc Lab, C.N.R.S., U.M.R. 725",
+      "name": "Heudiasyc Laboratory, C.N.R.S., U.M.R. 725",
       "location": "Compiègne, France",
       "position": "Trustworthy-AI Researcher (PhD Student)",
       "url": "https://www.hds.utc.fr/en/",
       "startDate": "2023-10-01",
       "endDate": "2026-10-01",
-      "summary": "To be completed."
+      "summary": "Designing, benchmarking and publishing novel distribution-free uncertainty quantification algorithms for trustworthy robot-vision (semantic image segmentation, object detection & tracking)."
     },
     {
-      "position": "Verification and Validation Software Engineer",
-      "location": "Aix-en-Provence, France",
+      "name": "Scalian, Aix-en-Provence",
+      "position": "Verification and Validation (V&V) Software Engineer",
+      "location": "13080, France",
       "startDate": "2022-05-01",
       "endDate": "2023-02-01"
     },
     {
+      "name": "LIVIA Laboratory, ÉTS",
       "position": "Computer Vision Researcher (M.Sc.A Student)",
-      "location": "Montréal, Québec, Canada",
+      "location": "Montréal, Canada",
       "startDate": "2019-09-01",
       "endDate": "2021-09-01"
     },
     {
+      "name": "Ti Fuel Systems, Châlons-en-Champagne",
       "position": "Control Engineer (Intern)",
-      "location": "Châlons-en-Champagne, France",
+      "location": "51000, France",
       "startDate": "2018-02-01",
       "endDate": "2018-08-01"
     }
@@ -155,6 +158,14 @@
       "keywords": [
         "3D Animations",
         "Blues Guitar"
+      ]
+    },
+    {
+      "name": "Sports",
+      "icon": "fa-solid fa-thumbtack",
+      "keywords": [
+        "Basketball",
+        "Volleyball"
       ]
     }
   ]
