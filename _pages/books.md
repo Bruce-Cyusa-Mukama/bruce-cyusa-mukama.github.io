@@ -14,11 +14,11 @@ profiles:
     content: about_phd.md
     image_circular: false
     more_info: >
-      <p>Robust Uncertainty Quantification Algorithms for Perception</p>
+      <p></p>
   - align: left
     image: msca.jpg
     content: about_msca.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Curriculum semi-supervised medical image segmentation via predicted bounding boxes.</p>
+      <p></p>
 ---
