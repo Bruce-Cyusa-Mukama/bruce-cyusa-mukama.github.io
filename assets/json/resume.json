@@ -20,7 +20,7 @@
     },
     {
       "name": "Scalian, Aix-en-Provence",
-      "position": "Verification and Validation (V&V) Software Engineer",
+      "position": "Software Verification and Validation (V&V) Engineer",
       "url": "https://www.scalian.com/en/",
       "location": "13080, France",
       "startDate": "2022-05-01",
@@ -139,7 +139,7 @@
       "name": "Trustworthy AI",
       "icon": "fa-solid fa-laptop",
       "keywords": [
-        "ML Validation & Verification",
+        "Machine Learning V&V",
         "Explainable Machine Learning"
       ]
     },
@@ -147,8 +147,8 @@
       "name": "Collaborative Robotics",
       "icon": "fa-solid fa-laptop",
       "keywords": [
-        "Learned Action Policies",
-        "Learned Perception"
+        "ML for Action Policies",
+        "ML for Robot-Vision"
       ]
     },
     {
