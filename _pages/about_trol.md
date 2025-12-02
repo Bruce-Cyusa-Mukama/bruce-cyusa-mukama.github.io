@@ -1,1 +1,0 @@
-This "Trustworty Robot Learning" digital book shall be based on a collection of my tutorial papers that shall be oublished by "Robotics and Automation Magazine (RAM)" in and by "Foundations and Trends in Machine Learning (FnTML)".

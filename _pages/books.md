@@ -11,20 +11,14 @@ profiles:
   # and create one content file for each profile/book inside _pages/
   - align: right
     image: msca.jpg
-    content: about_aa.md
+    content: about_phd.md
     image_circular: false
     more_info: >
-      <p>The Art of Allegorical Clips.</p>
+      <p>Robust Uncertainty Quantification Algorithms for Perception</p>
   - align: left
-    image: msca.jpg
-    content: about_trol.md
-    image_circular: false
-    more_info: >
-      <p>Trustworthy Robot Learning.</p>
-  - align: right
     image: msca.jpg
     content: about_msca.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Curriculum semi-supervised segmentation of medical images via predicted bounding boxes.</p>
+      <p>Curriculum semi-supervised medical image segmentation via predicted bounding boxes.</p>
 ---
