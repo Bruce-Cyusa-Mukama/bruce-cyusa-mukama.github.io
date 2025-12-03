@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-art",
-          title: "Art",
-          description: "A curated list of my digital art projects (songs, paintings, animated clips, etc.).",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/art/";
-          },
         },{id: "nav-books",
           title: "Books",
           description: "A curated list of my books (in progress or publihed).",
