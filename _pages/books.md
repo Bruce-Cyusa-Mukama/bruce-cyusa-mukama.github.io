@@ -11,11 +11,17 @@ profiles:
   # and create one content file for each profile/book inside _pages/
   - align: right
     image: msca.jpg
-    content: about_phd.md
+    content: about_ab.md
     image_circular: false
     more_info: >
       <p></p>
   - align: left
+    image: msca.jpg
+    content: about_phd.md
+    image_circular: false
+    more_info: >
+      <p></p>
+  - align: right
     image: msca.jpg
     content: about_msca.md
     image_circular: false # crops the image to make it circular
