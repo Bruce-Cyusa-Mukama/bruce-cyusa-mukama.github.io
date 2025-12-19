@@ -2,10 +2,10 @@
 layout: page
 title: Art
 permalink: /art/
-description: A curated list of my digital art projects, i.e., paintings, songs, and short animations.
+description: A curated list of my artistic projects, i.e., musical analyses, song covers, guitar arrangements, etc.
 nav: true
 nav_order: 3
-display_categories: [2026 - 2029]
+display_categories: [2023 - 2026a]
 horizontal: false
 ---
 
