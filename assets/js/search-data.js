@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-art",
           title: "Art",
-          description: "A curated list of my digital art projects, i.e., paintings, songs, and short animations.",
+          description: "A curated list of my artistic projects, i.e., musical analyses, song covers, guitar arrangements, etc.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/art/";
@@ -405,19 +405,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-classic-n-1",
-          title: 'Classic N°1',
-          description: "A digital painting that recreates a frame of a popular story/ movie/ painting in a cyberpunk world.",
+          section: "News",},{id: "projects-ordinary",
+          title: 'Ordinary',
+          description: "A visual analysis and a fingerstyle guitar cover of the 2025 song I liked the most, i.e., &quot;Ordinary&quot; by Alex Warren.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_1/";
-            },},{id: "projects-classic-n-2",
-          title: 'Classic N°2',
-          description: "A digital painting that recreates a frame of a popular story/ movie/ painting in a steampunk world.",
+            },},{id: "projects-runaway",
+          title: 'RUNAWAY',
+          description: "A visual analysis and a fingerstyle guitar cover of the song &quot;RUNAWAY&quot; by OneRepublic.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_2/";
-            },},{id: "projects-classic-n-3",
-          title: 'Classic N°3',
-          description: "A digital painting that recreates a frame of a popular story/ movie/ painting in an steampunk world.",
+            },},{id: "projects-toute-la-musique-que-j-aime",
+          title: 'Toute la musique que j’aime',
+          description: "A visual analysis and a fingerstyle guitar cover of the song &quot;Toute la musique que j’aime&quot; by Johnny Hallyday.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_3/";
             },},{id: "projects-t-fr",
