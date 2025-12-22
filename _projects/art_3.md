@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Toute la musique que j’aime
+title: Toute la ... que j’aime
 description: A visual analysis and a fingerstyle guitar cover of the song "Toute la musique que j’aime" by Johnny Hallyday.
 img: assets/img/7.jpg
 importance: 3
