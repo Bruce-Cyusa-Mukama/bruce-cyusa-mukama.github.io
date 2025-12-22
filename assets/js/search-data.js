@@ -415,8 +415,8 @@ ninja.data = [{
           description: "A visual analysis and a fingerstyle guitar cover of the song &quot;RUNAWAY&quot; by OneRepublic.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_2/";
-            },},{id: "projects-toute-la-musique-que-j-aime",
-          title: 'Toute la musique que j’aime',
+            },},{id: "projects-toute-la-que-j-aime",
+          title: 'Toute la ... que j’aime',
           description: "A visual analysis and a fingerstyle guitar cover of the song &quot;Toute la musique que j’aime&quot; by Johnny Hallyday.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_3/";
