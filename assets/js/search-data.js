@@ -410,8 +410,8 @@ ninja.data = [{
           description: "A visual analysis and a fingerstyle guitar cover of the 2025 song I liked the most, i.e., &quot;Ordinary&quot; by Alex Warren.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_1/";
-            },},{id: "projects-runaway",
-          title: 'RUNAWAY',
+            },},{id: "projects-run-away",
+          title: 'Run away',
           description: "A visual analysis and a fingerstyle guitar cover of the song &quot;RUNAWAY&quot; by OneRepublic.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_2/";
