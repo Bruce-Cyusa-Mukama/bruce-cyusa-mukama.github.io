@@ -420,8 +420,8 @@ ninja.data = [{
           description: "A visual analysis and a fingerstyle guitar cover of the song &quot;Toute la musique que j’aime&quot; by Johnny Hallyday.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_3/";
-            },},{id: "projects-t-fr",
-          title: 'T-FR',
+            },},{id: "projects-ra-l",
+          title: 'RA-L',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
               window.location.href = "/projects/research_1/";
