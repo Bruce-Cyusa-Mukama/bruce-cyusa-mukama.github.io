@@ -31,7 +31,7 @@ latest_posts:
 I am a hobbyist guitarist and a robotics research scientist. Prior to this, I was trained as a control engineer (M.Eng.) at the *Université de Technologie de Troyes (UTT)* and as a computer vision scientist (M.A.Sc.) at the *École de Technologie Supérieure (ÉTS Montréal)*. As I saw the deployment of deep learning algorithms in safety-critical environments raising many concerns regarding their tustworthyness, I sought an initiation in the development of rigorous and robust machine learning verification methods through a computer science PhD program at the *Université de Technologie de Compiègne (UTC)*. Due to this profound and enduring fascination with automation and safety, my research endeavors are primarily directed towards the development of trustworthy machine learning algorithms for vision-based collaborative and assistive robots.
 
 ## Research Interests
-My research is motivated by the need of (vision-based) intelligent systems that can safely assist or collaborate with (possibly disabled) humans to complete physical tasks. Thus, I am mainly interested in:
+My research is motivated by the need of (vision-based) intelligent systems that can safely assist or collaborate with (disabled) humans to complete physical tasks. Thus, I am mainly interested in:
 - Trustworthy Artificial Intelligence, 
 - Machine Learning for Robotics,
 - Computer Vision for Robotics.
