@@ -457,11 +457,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=rCslcaAAAAAJ", "_blank");
         },
       },{
-        id: 'social-youtube',
-        title: 'YouTube',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@allegorical-art", "_blank");
+          window.open("https://github.com/Bruce-Cyusa-Mukama", "_blank");
         },
       },{
       id: 'light-theme',
