@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TLMQJ
+title: Toute la ...
 description: A visual analysis and a fingerstyle guitar cover of the song "Toute la musique que j’aime" by Johnny Hallyday.
 img: assets/img/7.jpg
 importance: 6
