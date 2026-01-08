@@ -415,8 +415,8 @@ ninja.data = [{
           description: "A visual analysis and a fingerstyle guitar cover of the song &quot;Hélène&quot; by Julien Doré.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_2/";
-            },},{id: "projects-knockin-39",
-          title: 'Knockin&amp;#39; ...',
+            },},{id: "projects-knockin-39-on",
+          title: 'Knockin&amp;#39; on ...',
           description: "A visual analysis and a fingerstyle guitar cover of the song &quot;Knockin&#39; on Heaven&#39;s Door&quot; by Bob Dylan.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_3/";
