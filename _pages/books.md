@@ -15,7 +15,7 @@ profiles:
     image_circular: false
     more_info: >
       <p></p>
-  - align: left
+  - align: right
     image: msca.jpg
     content: about_phd.md
     image_circular: false
