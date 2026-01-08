@@ -1,9 +1,9 @@
 ---
 layout: page
-title: ... Câline
-description: A visual analysis and a fingerstyle guitar cover of the song "Coco Câline" by Julien Doré.
+title: Ordinary
+description: A visual analysis and a fingerstyle guitar cover of the 2025 song I liked the most, i.e., "Ordinary" by Alex Warren.
 img: assets/img/7.jpg
-importance: 1
+importance: 4
 category: 2023 - 2026a
 ---
 
