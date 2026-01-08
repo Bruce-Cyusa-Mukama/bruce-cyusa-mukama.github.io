@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ... Câline
+title: Coco Câline
 description: A visual analysis and a fingerstyle guitar cover of the song "Coco Câline" by Julien Doré.
 img: assets/img/7.jpg
 importance: 1
