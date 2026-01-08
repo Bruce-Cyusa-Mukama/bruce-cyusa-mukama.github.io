@@ -405,21 +405,36 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-ordinary",
+          section: "News",},{id: "projects-câline",
+          title: '... Câline',
+          description: "A visual analysis and a fingerstyle guitar cover of the song &quot;Coco Câline&quot; by Julien Doré.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/art_1/";
+            },},{id: "projects-hélène",
+          title: 'Hélène',
+          description: "A visual analysis and a fingerstyle guitar cover of the song &quot;Hélène&quot; by Julien Doré.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/art_2/";
+            },},{id: "projects-knockin-39",
+          title: 'Knockin&amp;#39; ...',
+          description: "A visual analysis and a fingerstyle guitar cover of the song &quot;Knockin&#39; on Heaven&#39;s Door&quot; by Bob Dylan.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/art_3/";
+            },},{id: "projects-ordinary",
           title: 'Ordinary',
           description: "A visual analysis and a fingerstyle guitar cover of the 2025 song I liked the most, i.e., &quot;Ordinary&quot; by Alex Warren.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/art_1/";
+              window.location.href = "/projects/art_4/";
             },},{id: "projects-run-away",
           title: 'Run away',
           description: "A visual analysis and a fingerstyle guitar cover of the song &quot;RUNAWAY&quot; by OneRepublic.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/art_2/";
+              window.location.href = "/projects/art_5/";
             },},{id: "projects-tlmqj",
           title: 'TLMQJ',
           description: "A visual analysis and a fingerstyle guitar cover of the song &quot;Toute la musique que j’aime&quot; by Johnny Hallyday.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/art_3/";
+              window.location.href = "/projects/art_6/";
             },},{id: "projects-jint",
           title: 'JINT',
           description: "Everything is awesome",
