@@ -405,8 +405,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-câline",
-          title: '... Câline',
+          section: "News",},{id: "projects-coco-câline",
+          title: 'Coco Câline',
           description: "A visual analysis and a fingerstyle guitar cover of the song &quot;Coco Câline&quot; by Julien Doré.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/art_1/";
