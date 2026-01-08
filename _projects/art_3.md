@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Knockin' ...
+title: Knockin' on ...
 description: A visual analysis and a fingerstyle guitar cover of the song "Knockin' on Heaven's Door" by Bob Dylan.
 img: assets/img/7.jpg
 importance: 3
