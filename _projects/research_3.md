@@ -1,6 +1,6 @@
 ---
 layout: page
-title: R.E.D
+title: PR
 description: Everything is awesome
 img: assets/img/7.jpg
 redirect: https://unsplash.com
