@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TMLR
+title: RSS
 description: Everything is awesome
 img: assets/img/3.jpg
 importance: 2
