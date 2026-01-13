@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JINT
+title: TMLR
 description: Everything is awesome
 img: assets/img/12.jpg
 importance: 1
