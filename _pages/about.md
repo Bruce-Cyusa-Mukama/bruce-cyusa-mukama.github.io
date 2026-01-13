@@ -28,10 +28,10 @@ latest_posts:
 ---
 
 ## Short Bio
-I am a hobbyist guitarist and a robotics research scientist. Prior to this, I was trained as a control engineer (M.Eng.) at the *Université de Technologie de Troyes (UTT)* and as a computer vision scientist (M.A.Sc.) at the *École de Technologie Supérieure (ÉTS Montréal)*. As I saw the deployment of deep learning algorithms in safety-critical environments raising many concerns regarding their tustworthyness, I sought an initiation in the development of rigorous and robust machine learning verification methods through a computer science PhD program at the *Université de Technologie de Compiègne (UTC)*. Due to this profound and enduring fascination with automation and safety, my research endeavors are primarily directed towards the development of trustworthy machine learning algorithms for vision-based collaborative and assistive robots.
+I am a guitarist and a research scientist. Prior to this, I was trained as a control engineer (M.Eng.) at UTT (Université de Technologie de Troyes) and as a computer vision scientist (M.A.Sc.) at ÉTS (École de Technologie Supérieure de Montréal). Afterwards, I completed a computer science PhD program at UTC (Université de Technologie de Compiègne), with a specialization in the development of rigorous and robust uncertainty quantification methods for machine learning algorithms. Due to this profound and enduring fascination with problem solving, automation and safety, my research endeavors have been primarily directed towards the development of trustworthy machine learning algorithms for computer vision and robot learning.
 
 ## Research Interests
-My research is motivated by the need of (vision-based) intelligent systems that can safely assist or collaborate with (disabled) humans to complete physical tasks. Thus, I am mainly interested in:
+My research is motivated by the need of intelligent systems that can safely assist or collaborate with humans to complete complex tasks. Although I find joy in solving any problem that is related to such intelligent systems, I am mostly knowledgeable in the following domains:
 - Trustworthy Artificial Intelligence, 
 - Machine Learning for Robotics,
 - Computer Vision for Robotics.
