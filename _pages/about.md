@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Office 233, Heudiasyc Lab,</p>
-    <p> C.N.R.S., U.M.R. 7253,</p>
+    <p> Office 233,</p>
+    <p> Heudiasyc C.N.R.S. Lab,</p>
     <p> Compiègne, FRANCE.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
