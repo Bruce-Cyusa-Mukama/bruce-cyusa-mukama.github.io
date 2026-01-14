@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Bruce Cyusa Mukama",
-    "label": "Robotics Research Scientist",
+    "label": "Research Scientist",
     "image": "",
     "email": "bruce.cyusa-mukama@hds.utc.fr",
     "phone": "",
     "url": "",
-    "summary": "Robotics research scientist, specialized in trustworthy artificial intelligence and collaborative robotics."
+    "summary": "Specialized in the study of trustworthy artificial intelligence algorithms for computer vision and robotics."
   },
   "work": [
     {
@@ -79,7 +79,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Litterature Review",
-        "Critical & Analytical Thinking",
+        "Critical and Analytical Thinking",
         "Scientific Communication"
       ]
     },
@@ -89,7 +89,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Python (PyTorch, NumPy, etc.)",
-        "C/C++ (MuJoCo, ROS 2, etc.)",
+        "C/C++ (ROS 2, MuJoCo, etc.)",
         "CI/CD Pipelines (GitHub, etc.)"
       ]
     },
@@ -98,8 +98,8 @@
       "level": "M.Eng.",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "CAD & 3D Printing",
-        "PCB Debug & Prototyping"
+        "CAD and 3D Printing",
+        "PCB Debug and Prototyping"
       ]
     },
     {
@@ -108,7 +108,7 @@
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "Project Management",
-        "Mentoring & suppervision"
+        "Mentoring and Suppervision"
       ]
     }
   ],
@@ -139,16 +139,16 @@
       "name": "Trustworthy AI",
       "icon": "fa-solid fa-laptop",
       "keywords": [
-        "AI Verification & Validation",
-        "Explainable & Interpretable AI"
+        "AI Verification and Validation",
+        "AI Interpretation and Explaination"
       ]
     },
     {
-      "name": "Collaborative Robotics",
+      "name": "Machine Learning",
       "icon": "fa-solid fa-laptop",
       "keywords": [
-        "ML for Action Policies",
-        "ML for Robot-Vision"
+        "ML for Robots",
+        "ML for Computer Vision"
       ]
     },
     {
@@ -156,7 +156,7 @@
       "icon": "fa-solid fa-thumbtack",
       "keywords": [
         "French Cuisine",
-        "Guitar Arrangements"
+        "Fingerstyle Guitar"
       ]
     },
     {
