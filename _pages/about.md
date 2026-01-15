@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Doctoral AI researcher at the <a href='https://www.hds.utc.fr/'>Heudiasyc (C.N.R.S.) Laboratory</a>. 
+subtitle: Doctoral AI researcher at the <a href='https://www.hds.utc.fr/'>Heudiasyc (CNRS) Laboratory</a>. 
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Office 233,</p>
-    <p> Heudiasyc C.N.R.S. Lab,</p>
+    <p> Heudiasyc (CNRS),</p>
     <p> Compiègne, FRANCE.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
