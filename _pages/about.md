@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Doctoral AI researcher at the <a href='https://www.hds.utc.fr/'>Heudiasyc (CNRS) Laboratory</a>. 
+subtitle: Doctoral AI researcher at the <a href='https://www.hds.utc.fr/'>Heudiasyc (CNRS) laboratory</a>. 
 
 profile:
   align: right
