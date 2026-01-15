@@ -440,8 +440,8 @@ ninja.data = [{
           description: "Everything is awesome",
           section: "Projects",handler: () => {
               window.location.href = "/projects/research_1/";
-            },},{id: "projects-rss",
-          title: 'RSS',
+            },},{id: "projects-copa",
+          title: 'COPA',
           description: "Everything is awesome",
           section: "Projects",handler: () => {
               window.location.href = "/projects/research_2/";
