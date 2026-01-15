@@ -7,7 +7,7 @@ first_name: Bruce
 middle_name: 
 last_name: Cyusa Mukama
 contact_note: > # You can even add a little note about which of these is the best way to reach you.
-  I prefer LinkedIn messages, but email are also fine.
+  I prefer LinkedIn messages, but emails are also fine.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Bruce Cyusa Mukama's homepage. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
