@@ -3,7 +3,7 @@ layout: page
 title: Ordinary
 description: A visual analysis and a fingerstyle guitar cover of the 2025 song I liked the most, i.e., "Ordinary" by Alex Warren.
 img: assets/img/7.jpg
-importance: 4
+importance: 5
 category: 2023 - 2026a
 ---
 

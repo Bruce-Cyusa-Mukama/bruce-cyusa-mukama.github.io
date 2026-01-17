@@ -3,7 +3,7 @@ layout: page
 title: Run away
 description: A visual analysis and a fingerstyle guitar cover of the song "RUNAWAY" by OneRepublic.
 img: assets/img/7.jpg
-importance: 5
+importance: 4
 category: 2023 - 2026a
 ---
 
