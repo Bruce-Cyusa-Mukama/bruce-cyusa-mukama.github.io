@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 description: A curated list of the robotics research and development projects to which I contributed.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [2023 - 2026]
 horizontal: false
 ---

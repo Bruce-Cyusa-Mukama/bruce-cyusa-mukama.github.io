@@ -4,7 +4,7 @@ title: Art
 permalink: /art/
 description: A curated list of my artistic projects, i.e., musical analyses, song covers, guitar arrangements, etc.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [2023 - 2026a]
 horizontal: false
 ---
