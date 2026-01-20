@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
-          title: "Research",
-          description: "A curated list of the robotics research and development projects to which I contributed.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
-        },{id: "nav-art",
+  },{id: "nav-art",
           title: "Art",
           description: "A curated list of my artistic projects, i.e., musical analyses, song covers, guitar arrangements, etc.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/art/";
+          },
+        },{id: "nav-research",
+          title: "Research",
+          description: "A curated list of the robotics research and development projects to which I contributed.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/research/";
           },
         },{id: "nav-resume",
           title: "Resume",
