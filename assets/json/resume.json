@@ -12,7 +12,7 @@
     {
       "name": "Heudiasyc Laboratory, C.N.R.S., U.M.R. 725",
       "location": "Compiègne, France",
-      "position": "PhD Researcher in Trustworthy AI",
+      "position": "Researcher in Trustworthy AI",
       "url": "https://www.hds.utc.fr/en/",
       "startDate": "2023-10-01",
       "endDate": "2026-10-01",
@@ -28,7 +28,7 @@
     },
     {
       "name": "LIVIA Laboratory, ÉTS Montréal",
-      "position": "MASc Researcher in Computer Vision",
+      "position": "Researcher in Computer Vision",
       "url": "https://www.etsmtl.ca/laboratoires/livia",
       "location": "Montréal, Canada",
       "startDate": "2020-04-01",
@@ -49,7 +49,7 @@
       "location": "Compiègne, France",
       "url": "https://www.utc.fr/en/courses-and-training/applying-at-utc/applying-for-doctoral-phd-studies-at-utc/",
       "area": "",
-      "studyType": "Computer Science PhD",
+      "studyType": "PhD in Computer Science",
       "startDate": "2023-10-01",
       "endDate": "2026-10-01"
     },
@@ -58,7 +58,7 @@
       "location": "Montréal, Canada",
       "url": "https://www.etsmtl.ca/en/programs-training/master-automated-manufacturing-engineering",
       "area": "",
-      "studyType": "Computer Vision MASc",
+      "studyType": "MASc in Computer Vision",
       "startDate": "2019-09-01",
       "endDate": "2021-12-15"
     },
@@ -67,7 +67,7 @@
       "location": "Troyes, France",
       "url": "https://www.utt.fr/formations/diplome-d-ingenieur/automatique-informatique-industrielle",
       "area": "",
-      "studyType": "Control and Computer Engineering M.Eng.",
+      "studyType": "M.Eng. in Control and Computer Engineering",
       "startDate": "2015-09-01",
       "endDate": "2022-10-27"
     }
