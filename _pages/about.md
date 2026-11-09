@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student in safe AI, at the <a href='https://www.hds.utc.fr/'>Heudiasyc (CNRS) laboratory</a>. 
+subtitle: Computer Science Researcher in Safe, Reliable, and Trustworthy AI. Defending soon (PhD) -- Open for full-time opportunities. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Heudiasyc Lab (CNRS),</p>
+    <p> <a href="https://www.cnrs.fr">CNRS</a>,</p>
     <p> Compiègne, France.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,12 +27,12 @@ latest_posts:
 ---
 
 ## Short Bio
-I am a guitarist and a research scientist. Prior to this, I was trained as a control engineer at UTT (Université de Technologie de Troyes) and as a computer vision scientist at ÉTS (École de Technologie Supérieure de Montréal). Afterwards, I completed a computer science PhD program at UTC (Université de Technologie de Compiègne) and specialized in the development of rigorous and robust uncertainty quantification algorithms for machine learning. The main application was vision-based autonomous vehicles. Nowadays my research topics also include other robotic systems and vision-language-action models. Beyond this profound and enduring fascination with problem solving, automation, and safety; my research is motivated by the need of intelligent systems that can safely assist or collaborate with humans to complete complex tasks. 
+My research centers on developing intelligent systems that can safely and reliably assist or collaborate with humans to complete complex tasks. Prior to this, I was trained as a Control Engineer at UTT ([Université de Technologie de Troyes](https://www.utt.fr)) and as a Computer Vision scientist at ÉTS ([École de Technologie Supérieure de Montréal](https://www.etsmtl.ca)). Afterwards, I conducted my PhD research in Computer Science at UTC ([Université de Technologie de Compiègne](https://www.utc.fr)), specializing in the development of rigorous Uncertainty Quantification algorithms for Machine Learning. Beyond my profound fascination with automation and safety, my research is driven by the conviction that objective knowledge can be beneficial to our societies.
 
-Regarding my guitar hobby, I mainly analyze, transcribe, and record guitar covers: fingerstyle guitar arrangements of popular songs. Occasionally, I also write original guitar songs and perform them for small crowds. This website briefly presents my scientific and artistic works. If you have any questions or would like to discuss potential opportunities, feel free to reach out using the details at the bottom of this page.
+This website provieds a brief overview of my research and background. If you have questions or would like to discuss potential opportunities, feel free to reach out using the details at the bottom of this page.
 
 ## Research Interests
-Although I find joy in solving any problem that is related to intelligent systems, I am mostly knowledgeable in the following domains:
+Although I find joy in solving any problem that is related to intelligent systems, I am mostly knowledgeable in the following areas:
 - Trustworthy Artificial Intelligence, 
 - Machine Learning for Robotics,
 - Computer Vision for Robotics.
