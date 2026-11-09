@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Science Researcher in Safe, Reliable, and Trustworthy AI. Defending soon (PhD)---Open for full-time opportunities. 
+subtitle: Researcher in Safe, Reliable, and Trustworthy AI. Defending soon (PhD) &mdash; Open for full-time opportunities. 
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
 ---
 
 ## Short Bio
-My research centers on developing intelligent systems that can safely and reliably assist or collaborate with humans to complete complex tasks. Prior to this, I was trained as a Control Engineer at UTT [Université de Technologie de Troyes](https://www.utt.fr), and as a Computer Vision scientist at ÉTS [École de Technologie Supérieure de Montréal](https://www.etsmtl.ca). Afterwards, I conducted my PhD research in Computer Science at [Université de Technologie de Compiègne](https://www.utc.fr), specializing in the development of rigorous Uncertainty Quantification algorithms for Machine Learning. Beyond my profound fascination with automation and safety, my research is driven by the conviction that objective knowledge can be beneficial to our societies.
+My research centers on developing intelligent systems that can safely and reliably assist or collaborate with humans to complete complex tasks. Prior to this, I was trained as a Control Engineer at [Université de Technologie de Troyes](https://www.utt.fr), and as a Computer Vision scientist at [École de Technologie Supérieure de Montréal](https://www.etsmtl.ca). Afterwards, I conducted my PhD research in Computer Science at [Université de Technologie de Compiègne](https://www.utc.fr), specializing in the development of rigorous Uncertainty Quantification algorithms for Machine Learning. Beyond my profound fascination with automation and safety, my research is driven by the conviction that objective knowledge can be beneficial to our societies.
 
 This website provides a brief overview of my research and background. If you have questions or would like to discuss potential opportunities or collaboration, feel free to reach out using the details at the bottom of this page.
 
