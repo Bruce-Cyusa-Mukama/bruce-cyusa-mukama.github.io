@@ -2,15 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Computer Science Researcher in Safe, Reliable, and Trustworthy AI. Defending soon (PhD) -- Open for full-time opportunities. 
+subtitle: Computer Science Researcher in Safe, Reliable, and Trustworthy AI. Defending soon (PhD)---Open for full-time opportunities. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <a href="https://www.cnrs.fr">CNRS</a>,</p>
-    <p> Compiègne, France.</p>
+    <p> Greater Amiens, France.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,9 +26,9 @@ latest_posts:
 ---
 
 ## Short Bio
-My research centers on developing intelligent systems that can safely and reliably assist or collaborate with humans to complete complex tasks. Prior to this, I was trained as a Control Engineer at UTT ([Université de Technologie de Troyes](https://www.utt.fr)) and as a Computer Vision scientist at ÉTS ([École de Technologie Supérieure de Montréal](https://www.etsmtl.ca)). Afterwards, I conducted my PhD research in Computer Science at UTC ([Université de Technologie de Compiègne](https://www.utc.fr)), specializing in the development of rigorous Uncertainty Quantification algorithms for Machine Learning. Beyond my profound fascination with automation and safety, my research is driven by the conviction that objective knowledge can be beneficial to our societies.
+My research centers on developing intelligent systems that can safely and reliably assist or collaborate with humans to complete complex tasks. Prior to this, I was trained as a Control Engineer at UTT [Université de Technologie de Troyes](https://www.utt.fr), and as a Computer Vision scientist at ÉTS [École de Technologie Supérieure de Montréal](https://www.etsmtl.ca). Afterwards, I conducted my PhD research in Computer Science at [Université de Technologie de Compiègne](https://www.utc.fr), specializing in the development of rigorous Uncertainty Quantification algorithms for Machine Learning. Beyond my profound fascination with automation and safety, my research is driven by the conviction that objective knowledge can be beneficial to our societies.
 
-This website provieds a brief overview of my research and background. If you have questions or would like to discuss potential opportunities, feel free to reach out using the details at the bottom of this page.
+This website provides a brief overview of my research and background. If you have questions or would like to discuss potential opportunities or collaboration, feel free to reach out using the details at the bottom of this page.
 
 ## Research Interests
 Although I find joy in solving any problem that is related to intelligent systems, I am mostly knowledgeable in the following areas:
