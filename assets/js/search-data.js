@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-resume",
           title: "Resume",
-          description: "An updated outiline of my background, i.e., curriculum vitae.",
+          description: "An updated outiline of my background, i.e., my curriculum vitae.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
